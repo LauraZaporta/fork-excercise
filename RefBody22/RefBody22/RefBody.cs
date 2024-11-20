@@ -18,7 +18,7 @@ namespace RefactorFork
             int productAllNumbers;
             bool validNum;
 
-            //Entra nombre de inputs i comprova si està en rang i en format correcte
+            //Entra nombre de inputs i comprova si està en rang i en format correcte :D
             do
             {
                 Console.Write(TextAskNumInputs);
